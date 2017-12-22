@@ -1,0 +1,13 @@
+client_id: 
+token: 
+prefix: $
+owner:
+game: 
+perms: 1609825463
+error_embed_color: 0xbb2735
+
+friend_role: friendo
+stream_role: streaming
+
+# collection of assignable roles
+assignable_roles:
